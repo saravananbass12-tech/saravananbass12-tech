@@ -1,5 +1,4 @@
 <div align="center">
-# 👋 Hi, I'm SARAVANAN D
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+SARAVANAN+D)](https://git.io/typing-svg)
 
