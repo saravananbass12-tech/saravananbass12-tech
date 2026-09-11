@@ -1,3 +1,10 @@
+<p align="center">
+  <marquee direction="right" scrollamount="6">
+    👋 Hi, I'm SARAVANAN D
+  </marquee>
+</p>
+
+
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saravanan-d-226785371/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
