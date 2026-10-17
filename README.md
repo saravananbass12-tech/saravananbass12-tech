@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1090&pause=7&color=00C853&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+SARAVANAN+D" alt="Hi, I'm SARAVANAN D">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1090&pause=7&color=#00943b&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+SARAVANAN+D" alt="Hi, I'm SARAVANAN D">
 
 </div>
 
