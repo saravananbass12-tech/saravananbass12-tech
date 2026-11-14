@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&duration=700&pause=17&color=07F0C5&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+SARAVANAN+D" alt="Hi, I'm SARAVANAN .D">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&duration=2000&pause=700&color=00C853&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+SARAVANAN+D;Welcome+To+My+GitHub+Profile;Aspiring+Software+Developer;Python+%7C+AI+%7C+Data+Analytics" alt="Hi, I'm SARAVANAN D">
 
+</div>
 </div>
 
 ## 🌐 Let's Connect
